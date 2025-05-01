@@ -1,0 +1,5 @@
+node_modules/
+auth_info/
+assets/temp/*
+config.json
+.env
