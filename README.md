@@ -34,7 +34,7 @@ pkg install -y nodejs git ffmpeg python
 pip install yt-dlp
 
 # Clone este repositório
-git clone https://github.com/seu-usuario/whatsapp-bot.git
+git clone https://github.com/Paulo19961944/whatsapp-bot.git
 cd whatsapp-bot
 
 # Instale as dependências do Node
